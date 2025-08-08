@@ -13,3 +13,5 @@ KPI cards highlighting Total Sales, Average Sales, Number of Items, and Average 
 Visualizations for fat content analysis, sales by outlet type, and item category distribution
 Sales trend analysis by year of establishment
 Clear, visually appealing layout with business-friendly color themes
+
+<img width="1169" height="668" alt="image" src="https://github.com/user-attachments/assets/505e303c-3687-4dd6-9dd6-0615fbb0b5e8" />
